@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-datasets
+transformers
+scikit-learn
+matplotlib
+seaborn
+pandas
+tf-keras
